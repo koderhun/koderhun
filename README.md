@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/rtxrulez/rtxrulez/assets/7428812/743c00c2-5760-485e-82a8-0f64780bdabc" width="200"/>
+  <img src="https://github.com/rtxrulez/rtxrulez/blob/main/7428812.jpeg?raw=true" width="200"/>
 </p>
 <p align="center">
   <a href="http://t.me/ramilhun" target="_blank">
