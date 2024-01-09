@@ -1,16 +1,16 @@
 
 <p align="center">
-  <img src="https://github.com/rtxrulez/rtxrulez/blob/main/7428812.jpeg?raw=true" width="200"/>
+  <img src="https://github.com/koderhun/koderhun/blob/main/7428812.jpeg?raw=true" width="200"/>
 </p>
 <p align="center">
-  <a href="http://t.me/ramilhun" target="_blank">
+  <a href="http://t.me/koderhun" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
    <a href="https://nn.hh.ru/resume/b28156a0ff02648f620039ed1f4e78764b6a54" target="_blank">
     <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge">
   </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rtxrulez&style=flat-square&color=green" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=koderhun&style=flat-square&color=green" alt=""></p>
 
 <h1 align="center">hey there</h1>
 
@@ -21,7 +21,7 @@ I am a Frontend Developer from Russia.
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/ramilhun)
+- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/koderhun)
 
 ---
 
@@ -44,8 +44,8 @@ I am a Frontend Developer from Russia.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rtxrulez)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koderhun)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtxrulez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koderhun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
