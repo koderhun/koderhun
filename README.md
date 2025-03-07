@@ -42,6 +42,8 @@ I am a Frontend Developer from Russia.
 
 ### 🔥 &nbsp; My Stats :
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=koderhun\&hide=contribs,issues)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koderhun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
