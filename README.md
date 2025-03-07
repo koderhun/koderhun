@@ -6,9 +6,6 @@
   <a href="http://t.me/koderhun" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
-   <a href="https://nn.hh.ru/resume/b28156a0ff02648f620039ed1f4e78764b6a54" target="_blank">
-    <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge">
-  </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=koderhun&style=flat-square&color=green" alt=""></p>
 
